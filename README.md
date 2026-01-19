@@ -15,6 +15,3 @@ It showcases property listings across Nigeria with responsive design, contact fo
 - React Router
 - FontAwesome Icons
 - CSS Grid & Flexbox
-
-## 📦 Setup
-Clone the repo and install dependencies:
